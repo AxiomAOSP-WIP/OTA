@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "ojszymon",
+            "oem": "OEM",
+            "device": "raphael",
+            "filename": "axiom-1.1-20221010_201946-OFFICIAL-RC-Tesla-raphael.zip",
+            "download": "https://sourceforge.net/projects/axiomos/files/Releases/raphael/axiom-1.1-20221010_201946-OFFICIAL-RC-Tesla-raphael.zip/download",
+            "timestamp": 1665439119,
+            "md5": "1261173a246c276c83d56a4323dd9d03",
+            "sha256": "83a7a904ebceaa990bbfae5184da15de4db5064218715d09af70402d2321eefb",
+            "size": "1092881224",
+            "version": "1.1",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/axiomoshub",
+            "dt": "",
+            "common-dt": "",
+            "kernel": "",
+            "buildtype": "RC1"
+        }
+    ]
+}
