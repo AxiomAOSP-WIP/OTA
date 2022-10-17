@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Suresh",
+            "oem": "OEM",
+            "device": "sweet",
+            "filename": "axiom-1.1-20221017_0535-OFFICIAL-RC1-Tesla-sweet.zip",
+            "download": "https://sourceforge.net/projects/axiomos/files/Releases/sweet/axiom-1.1-20221017_0535-OFFICIAL-RC1-Tesla-sweet.zip/download",
+            "timestamp": 1665994724,
+            "md5": "036c8613d0924cc95bed5af755177c19",
+            "sha256": "7fbd8543e53b3cbc7484991a2baf8c207035db76ac62aeecb9867971bcf1fd03",
+            "size": "1108009939",
+            "version": "1.1",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/axiomoshub",
+            "dt": "",
+            "common-dt": "",
+            "kernel": "",
+            "buildtype": "RC1"
+        }
+    ]
+}
