@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Pokorny72",
+            "oem": "OEM",
+            "device": "alioth",
+            "filename": "axiom-1.1-20221018_1702-OFFICIAL-RC1-Tesla-alioth.zip",
+            "download": "https://sourceforge.net/projects/axiomos/files/Releases/alioth/axiom-1.1-20221018_1702-OFFICIAL-RC1-Tesla-alioth.zip/download",
+            "timestamp": 1666119151,
+            "md5": "f1069442de3159c31bd48ba5c5f13fc3",
+            "sha256": "81805e4c93d5cf2de2b04081167d86afa957c3811db927d04a28195c3956db06",
+            "size": "1133152802",
+            "version": "1.1",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/axiomoshub",
+            "dt": "",
+            "common-dt": "",
+            "kernel": "",
+            "buildtype": "RC1"
+        }
+    ]
+}
