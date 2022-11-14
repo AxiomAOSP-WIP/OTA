@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "czarsuperstar",
+            "oem": "OEM",
+            "device": "pyxis",
+            "filename": "axiom-1.1-20221114_1921-RC2-Tesla-pyxis.zip",
+            "download": "https://sourceforge.net/projects/axiomos/files/Releases/pyxis/axiom-1.1-20221114_1921-RC2-Tesla-pyxis.zip/download",
+            "timestamp": 1668455804,
+            "md5": "aa437b96a913b63b7ed87b24cfada97e",
+            "sha256": "bb88f066f8958d7069b99c23c9565d8f3720558f38608a83dd7bece43f0c30c1",
+            "size": "1084412070",
+            "version": "1.1",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/axiomoshub",
+            "dt": "",
+            "common-dt": "",
+            "kernel": "",
+            "buildtype": "RC1"
+        }
+    ]
+}
