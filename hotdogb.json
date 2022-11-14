@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "czarsuperstar",
+            "oem": "OEM",
+            "device": "hotdogb",
+            "filename": "axiom-1.1-20221113_1623-RC2-Tesla-hotdogb.zip",
+            "download": "https://sourceforge.net/projects/axiomos/files/Releases/hotdogb/axiom-1.1-20221113_1623-RC2-Tesla-hotdogb.zip/download",
+            "timestamp": 1668456551,
+            "md5": "673268a5094981676452758d86636dfe",
+            "sha256": "3bbe1843e2cacfee209950b17174df726d1ce933cb51af538daf52190785400e",
+            "size": "987797157",
+            "version": "1.1",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/axiomoshub",
+            "dt": "",
+            "common-dt": "",
+            "kernel": "",
+            "buildtype": "RC1"
+        }
+    ]
+}
